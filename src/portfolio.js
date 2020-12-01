@@ -200,16 +200,16 @@ const openSource = {
 // Some Big Projects You have worked with your company
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Volunteer Experience",
+  subtitle: "For the love of teaching!",
   projects: [
     {
-      image: ,
-      link: ""
+      image: require("./assets/images/mani_logo.png") ,
+      link: "https://talentquestforindia.org/"
     },
     {
-      image: ,
-      link: ""
+      image: require("./assets/images/rmd_logo.jpg"),
+      link: "https://rmd.ac.in/"
     }
   ]
 };
