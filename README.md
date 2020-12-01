@@ -1,21 +1,13 @@
-# Software Developer Folio ⚡️ [![GitHub](https://img.shields.io/github/license/saadpasta/developer-portfolio?color=blue)](https://github.com/saadpasta/developerFolio/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/saadpasta/developerFolio)](https://github.com/saadpasta/developerFolio/stargazers)  [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+# Portfolio ⚡️ 
 
-## A clean, beautiful and responsive portfolio template for Developers!
+## A clean, beautiful and responsive portfolio template for CS Engineers!
 
 
 <p align="center">
-  <kbd>
-<img src="https://user-images.githubusercontent.com/49693820/81296489-999abf00-908f-11ea-9442-75e8f0ecf65d.gif"></img>
-  </kbd>
+  
 </p>
 
-
 Just change `src/portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
-
-But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/saadpasta/developerFolio/issues).
-
-
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/saadpasta/developerFolio/pulls).
 
 ## Table of Contents
 - [Sections](#sections)
@@ -27,7 +19,7 @@ If you created something awesome and want to contribute then feel free to open a
 - [Technologies Used](#technologies-used)
 - [Illustrations](#illustrations)
 - [For the Future](#for-the-future)
-- [Contributors](#project-maintainers)
+
 
 ## Sections
 ✔️ Summary and About me\
@@ -41,10 +33,9 @@ If you created something awesome and want to contribute then feel free to open a
 ✔️ Talks\
 ✔️ Podcast\
 ✔️ Contact me\
-✔️ Twitter Timeline\
 ✔️ Github Profile
 
-To view a live example, **[click here](https://developerfolio.js.org/)**.
+To view a live example, **[click here](https://swarna-ilamathy.netlify.app/)**.
 
 
 ## Getting Started
@@ -72,10 +63,10 @@ From your command line, clone and run developerFolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/saadpasta/developerFolio.git
+$ git clone https://github.com/swarna97/my_portfolio.git
 
 # Go into the repository
-$ cd developerFolio
+$ cd my_portfolio
 
 # Install dependencies
 $ npm install
@@ -93,7 +84,7 @@ Generate a Github personal access token following these [instructions](https://h
 Note: Instead of creating a .env file, you can just run this command "cp env.example .env" inside the root directory
 
 ```bash
-- DeveloperFolio
+- my_portfolio
   - node_modules
   - public
   - src
@@ -129,18 +120,16 @@ If the above solution still doesn't work, visit the [wiki page](https://github.c
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  title: "Hi all I'm Saad",
-  subTitle: emoji("A passionate Full Stack Software Developer 🚀"),
+  title: "Hi all I'm Swarna",
+  subTitle: emoji("An Inquisitive CS Engineer 💻 with 2+ years of experience in Machine Learning "),
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
+  github: "https://github.com/swarna97",
+  linkedin: "http://www.linkedin.com/in/swarna-ilamathy/",
   gmail: "swarna.ilas@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7"
 };
 
 
@@ -202,7 +191,7 @@ This section guides you to deploy your portfolio on Github pages.
 
 You could also host directly with Netlify by linking your own repository.
 
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/saadpasta/developerFolio)
+[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/swarna/my_portfolio)
 
 For more information, read [hosting on Netlify](https://create-react-app.dev/docs/deployment/#netlify).
 
@@ -219,31 +208,6 @@ For more information, read [hosting on Netlify](https://create-react-app.dev/doc
 
 ## Illustrations
 - [UnDraw](https://undraw.co/illustrations)
-
-
-
-
-## For the Future
-If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/saadpasta/developerFolio/pulls).
-
-- Connect with LinkedIn to get Summary, Skills, Education and Experience
-
-- Move to Gatsby
-
-- Enable Dark Mode
-
-- Add More Sections
-
-## Project Maintainers 
-
-<table>
-  <tr>
-    <td align="center"><a href="http://saadpasta.github.io"><img src="https://avatars2.githubusercontent.com/u/23307811?v=4" width="100px;" alt=""/><br /><sub><b>Swarna Ilamathy</b></sub></a></td>
-    <td align="center"><a href="https://github.com/kartikcho"><img src="https://avatars1.githubusercontent.com/u/48270786?v=4" width="100px;" alt=""/><br /><sub><b>Kartik Choudhary</b></sub></a></td>
-    <td align="center"><a href="https://naveen.syrusdark.website"><img src="https://avatars1.githubusercontent.com/u/49693820?v=4" width="100px;" alt=""/><br /><sub><b>Naveen M K</b></sub></a></td>
-    <td align="center"><a href="http://www.muhammadhasham.com"><img src="https://avatars0.githubusercontent.com/u/17927649?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Hasham</b></sub></a></td>
-  </tr>
-</table>
 
 ## Contributors 
 
