@@ -204,7 +204,7 @@ const bigProjects = {
   subtitle: "For the love of teaching!",
   projects: [
     {
-      image: require("./assets/images/mani_logo.png") ,
+      image: require("./assets/images/main_logo.png") ,
       link: "https://talentquestforindia.org/"
     },
     {
