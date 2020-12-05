@@ -191,7 +191,7 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
+  githubConvertedToken: "403a03b1fb252e100e85c39e9cb6447136eef969",
   githubUserName: "swarna97", // Change to your github username to view your profile in Contact Section.
   showGithubProfile :"true" // Set true or false to show Contact profile using Github, defaults to false
 };
@@ -300,7 +300,7 @@ const talkSection = {
 //   subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
 
 //   // Please Provide with Your Podcast embeded Link
-//   podcast: ["https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"]
+//   podcast: [""]
 // };
 
 const contactInfo = {
