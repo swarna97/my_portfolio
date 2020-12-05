@@ -49,17 +49,10 @@ node@v10.16.0 or higher
 npm@6.9.0 or higher
 git@2.17.1 or higher
 ```
-### Docker Commands
-
-```
-1) BUILD IMAGE : docker build -t developerfolio:latest .
-2) RUN IMAGE: docker run -t -p 3000:3000 developerfolio:latest
-```
-
 
 ## How To Use 
 
-From your command line, clone and run developerFolio:
+From your command line, clone and run :
 
 ```bash
 # Clone this repository
@@ -109,7 +102,6 @@ If you are seeing something as shown below, follow these [instructions](https://
 
 ![ERROR](https://i.imgur.com/Hj6mu1K.png)
 
-If the above solution still doesn't work, visit the [wiki page](https://github.com/saadpasta/developerFolio/wiki/Github-Setup-For-Open-Source-Projects).
 
 ## Change and customize every section according to your need.
 
@@ -179,7 +171,7 @@ We highly recommend to read through the [Deploying on Github Pages](https://crea
 
 This section guides you to deploy your portfolio on Github pages.
 
-- Navigate to `package.json` and enter your domain name instead of `https://developerfolio.js.org/` in `homepage` variable. For example, if you want your site to be `https://<your-username>.github.io/developerFolio`, add the same to the homepage section of `package.json`.
+- Navigate to `package.json` and enter your domain name instead of `https://swarna-ilamathy.netlify.app/` in `homepage` variable. For example, if you want your site to be `https://<your-username>.github.io/swarna_portfolio`, add the same to the homepage section of `package.json`.
 
 - In short you can also add `/devloperFolio` to `package.json` as both are exactly same. Upon doing so, you tell `create-react-app` to add the path assets accordingly.
 
