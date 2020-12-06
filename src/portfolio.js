@@ -31,7 +31,7 @@ const skillsSection = {
   skills: [
     emoji("⚡ Experiment with state-of-the-art Machine Learning and Deep Learning Models"),
     emoji("⚡ Natural Language Processing(NLP) Engineer - filling the gap between human and machine through text"),
-    emoji("⚡ Automating most of the manual software testing workflows")
+    emoji("⚡ Automating most of the manual software testing workflows using the powerful Python")
   ],
 
 /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -285,10 +285,10 @@ const talkSection = {
 
   talks: [
     {
-      title: "Standalone UI components",
-      subtitle: "",
-      slides_url: "",
-      event_url: ""
+      title: "Webinar on Desktop app development",
+      subtitle: "Java SWING",
+      slides_url: "https://www.canva.com/design/DAEJFr4MaVM/XuGfTUO-ppnTViJXcIlqKQ/edit#",
+      event_url: "https://www.linkedin.com/posts/rmd-eie-9818971a8_rmdec-engineering-instrumentation-activity-6718547483913547777-z2wA"
     }
   ]
 };
