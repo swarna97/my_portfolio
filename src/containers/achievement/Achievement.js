@@ -40,6 +40,7 @@ export default function Achievement() {
                 <AchievementCard
                   isDark={isDark}
                   cardInfo={{
+                    url : card.url,
                     title: card.title,
                     description: card.subtitle,
                     image: card.image,
