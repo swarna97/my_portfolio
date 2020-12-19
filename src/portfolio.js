@@ -227,7 +227,6 @@ const achievementSection = {
       subtitle: "For developing and deploying Quality Improvement Frameworks \n Machine Learning and AI capabilities",
       image: require("./assets/images/honeywell-logo.png"),
       footerLink: [
-        { name: "Team Award"},
         { name: "Award", url: "https://drive.google.com/file/d/1lpqRrlPQkmUje3VathLQaNe6oes7lmQN/view?usp=sharing" },
       ]
     },
@@ -236,23 +235,23 @@ const achievementSection = {
       subtitle: "National-level 36-Hour Product Development \n Project Idea selected from 6000 submissions",
       image: require("./assets/images/SIH_logo_17.jpg"),
       footerLink: [
-        { name: "Developed Monitoring System for Drug Manufacturing Units"},
-        { name: "Certification", url: "" },
+        { name: "Monitoring System for Drug Manufacturing Units"},
+        { name: "Certification", url: "https://drive.google.com/file/d/1A7Y5aQaMG9G2IxxtO5nrIGo1tsFem1wC/view?usp=sharing" },
       ]
     },
     {
       title: "Smart India Hackathon 2018 Finalist",
       subtitle: "National-level 36-Hour Product Development \n Project Idea selected from 12000 submissions",
       image: require("./assets/images/sih18.png"),
-      footerLink: [ { name: "'e-Healthcare' - A platform for health schemes management "},
-      { name: "Certification", url: "" },]
+      footerLink: [ { name: "A platform for health schemes management "},
+      { name: "Certification", url: "https://drive.google.com/file/d/1NzWfnTegV6a3ttgP-4NOAosJkeQ6_LHm/view?usp=sharing" },]
     },
     {
       title: "Publication",
       subtitle: "Project Guidance Portal with Plagiarism Detection",
       image: require("./assets/images/ijesc.png"),
       footerLink: [
-        { name: "International Journal of Engineering Science and Computing"},
+        { name: "International Journal of Engineering Science & Computing"},
         { name: "Publication", url: "https://drive.google.com/file/d/18HUSxor4ZzJmeV-miGtYcRo_uO_o6BGG/view?usp=sharing" },
       ]
     },
@@ -261,8 +260,8 @@ const achievementSection = {
       subtitle: "Only Member from Undergrad CS department to be selected for the Excellence Center",
       image: require("./assets/images/big_data_1.jpe"),
       footerLink: [
-        { name: "Recognition as Top Coder", url: "" },
-        { name: "Website", url: "https://rmd.ac.in/coe/bigdata/cc.html" }
+        { name: "Website", url: "https://rmd.ac.in/coe/bigdata/cc.html" },
+        { name: "Recognition as Top Coder", url: "https://drive.google.com/file/d/1d71-fHIGzMEIM96j16NirFzwfDTVdhCP/view?usp=sharing" }
       ]
     }
   ]
