@@ -261,7 +261,7 @@ const achievementSection = {
     },
     {
       title: " Big Data Center Of Excellence(BDCOE)",
-      url: "https://drive.google.com/file/d/1d71-fHIGzMEIM96j16NirFzwfDTVdhCP/view?usp=sharing"
+      url: "https://drive.google.com/file/d/1d71-fHIGzMEIM96j16NirFzwfDTVdhCP/view?usp=sharing",
       subtitle: "Only Member from Undergrad CS department to be selected for the Excellence Center",
       image: require("./assets/images/big_data_1.jpe"),
       footerLink: [
