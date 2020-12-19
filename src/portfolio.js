@@ -318,7 +318,7 @@ const talkSection = {
     },
     {
       title: "Guest Lecture on Machine Learning",
-      subtitle: "Hands-on webinar for undergraduate students",
+      subtitle: "Hands-on session for undergraduate students",
       slides_url: "https://docs.google.com/presentation/d/1zWzOXCy_PCPjxd2rpEl3eBCkXX70erjEzAdSRnAn_4w/edit?usp=sharing",
       event_url: ""
     }
