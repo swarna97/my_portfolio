@@ -224,6 +224,7 @@ const achievementSection = {
   achievementsCards: [
     {
       title: "Strategic Innovation Award",
+      url: "https://drive.google.com/file/d/1lpqRrlPQkmUje3VathLQaNe6oes7lmQN/view?usp=sharing",
       subtitle: "For developing and deploying Quality Improvement Frameworks \n Machine Learning and AI capabilities",
       image: require("./assets/images/honeywell-logo.png"),
       footerLink: [
@@ -232,6 +233,7 @@ const achievementSection = {
     },
     {
       title: "Smart India Hackathon 2017 Finalist",
+      url: "https://drive.google.com/file/d/1A7Y5aQaMG9G2IxxtO5nrIGo1tsFem1wC/view?usp=sharing",
       subtitle: "National-level 36-Hour Product Development \n Project Idea selected from 6000 submissions",
       image: require("./assets/images/SIH_logo_17.jpg"),
       footerLink: [
@@ -241,6 +243,7 @@ const achievementSection = {
     },
     {
       title: "Smart India Hackathon 2018 Finalist",
+      url: "https://drive.google.com/file/d/1NzWfnTegV6a3ttgP-4NOAosJkeQ6_LHm/view?usp=sharing",
       subtitle: "National-level 36-Hour Product Development \n Project Idea selected from 12000 submissions",
       image: require("./assets/images/sih18.png"),
       footerLink: [ { name: "A platform for health schemes management "},
@@ -248,6 +251,7 @@ const achievementSection = {
     },
     {
       title: "Publication",
+      url: "https://drive.google.com/file/d/18HUSxor4ZzJmeV-miGtYcRo_uO_o6BGG/view?usp=sharing",
       subtitle: "Project Guidance Portal with Plagiarism Detection",
       image: require("./assets/images/ijesc.png"),
       footerLink: [
@@ -257,6 +261,7 @@ const achievementSection = {
     },
     {
       title: " Big Data Center Of Excellence(BDCOE)",
+      url: "https://drive.google.com/file/d/1d71-fHIGzMEIM96j16NirFzwfDTVdhCP/view?usp=sharing"
       subtitle: "Only Member from Undergrad CS department to be selected for the Excellence Center",
       image: require("./assets/images/big_data_1.jpe"),
       footerLink: [
