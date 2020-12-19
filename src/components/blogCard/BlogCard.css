@@ -12,9 +12,7 @@
   height: 200px;
   width: 300px;
 }
-.blog-container:after {
-  display:inline-block;
-}
+
 .blog-title {
   color: #262626;
   font-size: 15px;
@@ -73,7 +71,8 @@
   z-index: 0;
   overflow: hidden;
   height: 100%;
-  width: 70%;
+  width: 100%;
+  gap:30px
 }
 
 .blog-card::before {
