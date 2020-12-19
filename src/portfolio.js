@@ -317,7 +317,7 @@ const talkSection = {
       event_url: "https://www.linkedin.com/posts/rmd-eie-9818971a8_rmdec-engineering-instrumentation-activity-6718547483913547777-z2wA"
     },
     {
-      title: "Webinar on Machine Learning",
+      title: "Guest Lecture on Machine Learning",
       subtitle: "Hands-on webinar for undergraduate students",
       slides_url: "https://docs.google.com/presentation/d/1zWzOXCy_PCPjxd2rpEl3eBCkXX70erjEzAdSRnAn_4w/edit?usp=sharing",
       event_url: ""
