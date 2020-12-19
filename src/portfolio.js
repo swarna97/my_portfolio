@@ -223,8 +223,17 @@ const achievementSection = {
 
   achievementsCards: [
     {
+      title: "Strategic Innovation Award",
+      subtitle: "For developing and deploying Quality Improvement Frameworks \n Machine Learning and AI capabilities",
+      image: require("./assets/images/honeywell-logo.png"),
+      footerLink: [
+        { name: "Team Award"},
+        { name: "Award", url: "https://drive.google.com/file/d/1lpqRrlPQkmUje3VathLQaNe6oes7lmQN/view?usp=sharing" },
+      ]
+    },
+    {
       title: "Smart India Hackathon 2017 Finalist",
-      subtitle: "National-level 36-Hour Product Development | Project Idea selected from 6000 submissions",
+      subtitle: "National-level 36-Hour Product Development \n Project Idea selected from 6000 submissions",
       image: require("./assets/images/SIH_logo_17.jpg"),
       footerLink: [
         { name: "Developed Monitoring System for Drug Manufacturing Units"},
@@ -233,12 +242,20 @@ const achievementSection = {
     },
     {
       title: "Smart India Hackathon 2018 Finalist",
-      subtitle: "National-level 36-Hour Product Development | Project Idea selected from 12000 submissions",
+      subtitle: "National-level 36-Hour Product Development \n Project Idea selected from 12000 submissions",
       image: require("./assets/images/sih18.png"),
       footerLink: [ { name: "'e-Healthcare' - A platform for health schemes management "},
       { name: "Certification", url: "" },]
     },
-
+    {
+      title: "Publication",
+      subtitle: "Project Guidance Portal with Plagiarism Detection",
+      image: require("./assets/images/ijesc.png"),
+      footerLink: [
+        { name: "International Journal of Engineering Science and Computing"},
+        { name: "Publication", url: "https://drive.google.com/file/d/18HUSxor4ZzJmeV-miGtYcRo_uO_o6BGG/view?usp=sharing" },
+      ]
+    },
     {
       title: " Big Data Center Of Excellence(BDCOE)",
       subtitle: "Only Member from Undergrad CS department to be selected for the Excellence Center",
@@ -260,19 +277,24 @@ const blogSection = {
 
   blogs: [
     {
+      url:"http://coursera.org/verify/specialization/SQ8XH4SZ9G6H",
+      title: "Natural Language Processing Specialization",
+      description: "Certification by DeepLearning.ai in Coursera"
+    },
+    {
       url: "http://coursera.org/verify/C5LZYFCG52GH",
       title: "Machine Learning Foundations: A Case Study Approach",
       description: "Certification by University of Washington in Coursera "
     },
     {
-      url:"https://www.coursera.org/verify/95ZGKR35Q6PD",
-      title: "Natural Language Processing with Probabilistic Models",
-      description: "As part of NLP Specialization Certification by DeepLearning.ai in Coursera"
+      url:"https://drive.google.com/file/d/0B-ggdl8FMW8cVXc0ZXpaNi1MRFE/view?usp=sharing",
+      title: "Oracle JAVA Certification",
+      description: "JAVA and Advanced JAVA Course Completion Certificate"
     },
     {
-      url:"https://www.coursera.org/verify/7M2C8KSEUL7V",
-      title: "Natural Language Processing with Classification and Vector Spaces",
-      description: "As part of NLP Specialization Certification by DeepLearning.ai in Coursera"
+      url:"https://www.coursera.org/verify/WNLUEXPZV76W",
+      title: "Programming for Everybody ",
+      description: "Getting Started with Python"
     }
   ]
 };
@@ -289,6 +311,12 @@ const talkSection = {
       subtitle: "Java SWING",
       slides_url: "https://www.canva.com/design/DAEJFr4MaVM/XuGfTUO-ppnTViJXcIlqKQ/edit#",
       event_url: "https://www.linkedin.com/posts/rmd-eie-9818971a8_rmdec-engineering-instrumentation-activity-6718547483913547777-z2wA"
+    },
+    {
+      title: "Webinar on Machine Learning",
+      subtitle: "Hands-on webinar for undergraduate students",
+      slides_url: "https://docs.google.com/presentation/d/1zWzOXCy_PCPjxd2rpEl3eBCkXX70erjEzAdSRnAn_4w/edit?usp=sharing",
+      event_url: ""
     }
   ]
 };
