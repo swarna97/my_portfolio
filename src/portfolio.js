@@ -101,7 +101,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "New York University",
-      logo: require("./assets/images/nyu.jpg"),
+      logo: require("./assets/nyu.jpg"),
       subHeader: "Incoming Computer Science Graduate Student, Fall 2021",
       duration: "September 2021 - May 2023",
       desc: "",
