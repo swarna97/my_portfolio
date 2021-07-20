@@ -16,7 +16,7 @@ import Top from "./topbutton/Top";
 import Twitter from "./twitter-embed/twitter";
 import { StyleProvider } from "../contexts/StyleContext";
 import "./Main.css";
-import Profile from "./profile/Profile";
+// import Profile from "./profile/Profile";
 import { educationInfo } from "../portfolio";
 
 export default class Main extends Component {
@@ -52,7 +52,7 @@ export default class Main extends Component {
           <Blogs />
           <Talks />
           <Twitter />
-          <Profile />
+//           <Profile />
           <Footer />
           <Top />
         </StyleProvider>
