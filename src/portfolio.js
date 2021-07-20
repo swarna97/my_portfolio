@@ -100,6 +100,15 @@ const educationInfo = {
   viewEducation: true, // Set it to true to see education section
   schools: [
     {
+      schoolName: "New York University",
+      logo: require("./assets/images/rmd_logo.jpg"),
+      subHeader: "Incoming Computer Science Graduate Student, Fall 2021",
+      duration: "September 2021 - May 2023",
+      desc: "",
+      descBullets: [
+      ]
+    },
+    {
       schoolName: "R.M.D. Engineering College (Affiliated to Anna University)",
       logo: require("./assets/images/rmd_logo.jpg"),
       subHeader: "Bachelor of Engineering in Computer Science and Engineering - CGPA - 8.25/10",
@@ -191,7 +200,7 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  githubConvertedToken: "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",
+  githubConvertedToken: "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",
   githubUserName: "swarna97", // Change to your github username to view your profile in Contact Section.
   showGithubProfile :"true" // Set true or false to show Contact profile using Github, defaults to false
 };
