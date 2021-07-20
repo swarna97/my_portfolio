@@ -101,7 +101,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "New York University",
-      logo: require("./assets/images/rmd_logo.jpg"),
+      logo: require("./assets/images/nyu.jpg"),
       subHeader: "Incoming Computer Science Graduate Student, Fall 2021",
       duration: "September 2021 - May 2023",
       desc: "",
@@ -202,7 +202,7 @@ To know how to get github key look at readme.md */
 const openSource = {
   githubConvertedToken: "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",
   githubUserName: "swarna97", // Change to your github username to view your profile in Contact Section.
-  showGithubProfile :"true" // Set true or false to show Contact profile using Github, defaults to false
+  showGithubProfile :"false" // Set true or false to show Contact profile using Github, defaults to false
 };
 
 
