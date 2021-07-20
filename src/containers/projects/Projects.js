@@ -20,6 +20,7 @@ export default function Projects() {
 
   function getRepoData() {
     console.log(openSource.githubConvertedToken);
+    console.log(openSource.githubUserName);
     const client = new ApolloClient({
       uri: "https://api.github.com/graphql",
       request: (operation) => {
@@ -36,7 +37,7 @@ export default function Projects() {
         query: gql`
         {
         user(login: "${openSource.githubUserName}") {
-          pinnedItems(first: 6, types: [REPOSITORY]) {
+          pinnedItems(first: 5, types: [REPOSITORY]) {
             totalCount
             edges {
               node {
