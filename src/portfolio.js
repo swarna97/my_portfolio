@@ -208,20 +208,20 @@ To know how to get github key look at readme.md */
 
 // Some Big Projects You have worked with your company
 
-const bigProjects = {
-  title: "Volunteer Experience",
-  subtitle: "For the love of teaching!",
-  projects: [
-    {
-      image: require("./assets/images/main_logo.png") ,
-      link: "https://talentquestforindia.org/"
-    },
-    {
-      image: require("./assets/images/rmd_logo.jpg"),
-      link: "https://rmd.ac.in/"
-    }
-  ]
-};
+// const bigProjects = {
+//   title: "Volunteer Experience",
+//   subtitle: "For the love of teaching!",
+//   projects: [
+//     {
+//       image: require("./assets/images/main_logo.png") ,
+//       link: "https://talentquestforindia.org/"
+//     },
+//     {
+//       image: require("./assets/images/rmd_logo.jpg"),
+//       link: "https://rmd.ac.in/"
+//     }
+//   ]
+// };
 
 // Your Achievement Section Include Your Certification Talks and More
 
@@ -358,4 +358,4 @@ const twitterDetails = {
   userName : ""//Replace "twitter" with your twitter username without @
 
 };
-export { greeting, socialMediaLinks, skillsSection, educationInfo, techStack, workExperiences, bigProjects, achievementSection, blogSection,talkSection, contactInfo , twitterDetails};
+export { greeting, socialMediaLinks, skillsSection, educationInfo, techStack, workExperiences, achievementSection, blogSection,talkSection, contactInfo , twitterDetails};
