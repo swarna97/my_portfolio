@@ -102,7 +102,7 @@ const educationInfo = {
     {
       schoolName: "New York University",
       logo: require("./assets/nyu.jpg"),
-      subHeader: "Incoming Computer Science Graduate Student, Fall 2021",
+      subHeader: "Computer Science Graduate Student, Fall 2021",
       duration: "September 2021 - May 2023",
       desc: "",
       descBullets: [
@@ -165,7 +165,7 @@ const workExperiences = {
       date: "April 2019 – Present",
       desc: "Improving the productivity of Cross Functional Teams using cutting-edge strategies and frameworks",
       descBullets: [
-"Automating the generation of test scripts from requirement using state-of-the-art NLP models",
+"Automated the generation of test scripts from requirement using state-of-the-art NLP models",
 "Automated the tools for Structural Coverage Analysis of C/C++ builds",
 "Developed Chat assistant which guides the test engineer and to improve engineers verification and validation skills.",
       ]
