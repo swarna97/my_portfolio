@@ -10,7 +10,7 @@ const greeting = {
   username: "Swarna Ilamathy",
   title: "Hi all, I'm Swarna",
   subTitle: emoji("An Inquisitive CS Engineer 👩‍💻 with 3+ years of experience in Machine Learning | NLP | Data Analysis and Analytics | Python Automation | Web Development | Feature Engineering | Computer Vision."),
-  resumeLink: "https://drive.google.com/file/d/1XPRgO5ooAQkB4ctjCiwav52vzeGErlcu/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/14vbG16_9mO_2_oyLqwG5-dTG_HUb3PuD/view?usp=sharing"
 };  
 
 // Your Social Media Link
