@@ -163,7 +163,7 @@ const workExperiences = {
       company: "Honeywell",
       companylogo: require("./assets/images/honeywell-logo.png"),
       date: "April 2019 – Present",
-      desc: "Improving the productivity of Cross Functional Teams using cutting-edge strategies and frameworks",
+      desc: "Improved the productivity of Cross Functional Teams using cutting-edge strategies and frameworks",
       descBullets: [
 "Automated the generation of test scripts from requirement using state-of-the-art NLP models",
 "Automated the tools for Structural Coverage Analysis of C/C++ builds",
