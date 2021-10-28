@@ -264,7 +264,7 @@ const achievementSection = {
       subtitle: "Project Guidance Portal with Plagiarism Detection",
       image: require("./assets/images/ijesc.png"),
       footerLink: [
-        { name: "International Journal of Engineering Science & Computing"},
+        { name: "IJESC"},
         { name: "Publication", url: "https://drive.google.com/file/d/18HUSxor4ZzJmeV-miGtYcRo_uO_o6BGG/view?usp=sharing" },
       ]
     },
