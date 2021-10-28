@@ -9,7 +9,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Swarna Ilamathy",
   title: "Hi all, I'm Swarna",
-  subTitle: emoji("An Inquisitive CS Engineer 👩‍💻 with 2+ years of experience in Machine Learning | NLP | Data Analysis and Analytics | Python Automation | Web Development | Feature Engineering | Computer Vision."),
+  subTitle: emoji("An Inquisitive CS Engineer 👩‍💻 with 3+ years of experience in Machine Learning | NLP | Data Analysis and Analytics | Python Automation | Web Development | Feature Engineering | Computer Vision."),
   resumeLink: "https://drive.google.com/file/d/1XPRgO5ooAQkB4ctjCiwav52vzeGErlcu/view?usp=sharing"
 };  
 
